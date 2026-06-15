@@ -1,5 +1,3 @@
-# Ignore local data files (keep repo small and secure)
-data/*.csv
 
 # Ignore python cache files
 __pycache__/

@@ -1,0 +1,21 @@
+# Ignore local data files (keep repo small and secure)
+data/*.csv
+
+# Ignore python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+.venv/
+env/
+
+# Ignore local IDE config files
+.vscode/
+.idea/
+.DS_Store
